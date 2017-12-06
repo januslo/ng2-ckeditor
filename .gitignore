@@ -2,3 +2,4 @@ aot/*
 node_modules/*
 npm-debug.log
 .idea
+lib/node_modules
